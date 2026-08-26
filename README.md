@@ -1,4 +1,4 @@
-# Minimalist Oceans 🌊
+# Minimalist Oceans
 
 A minimal Chrome theme in a clean, ocean-blue palette, by Miguel Euraque.
 
